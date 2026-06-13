@@ -11,7 +11,7 @@
   "dependencies": {
     "autoprefixer": "^10.5.0",
     "groq-sdk": "^0.9.0",
-    "next": "15.3.3",
+    "next": "^16.2.9",
     "pdf-parse": "^1.1.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
